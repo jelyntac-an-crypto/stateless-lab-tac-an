@@ -24,31 +24,31 @@ const List<Student> students = [
     name: 'Jeon Jungkook',
     course: 'BS Information Technology',
     yearLevel: 2,
-    email: 'jungkook@example.com',
+    email: 'jeon.jungkook@csucc.edu.ph',
   ),
   Student(
     name: 'Kim Seokjin',
     course: 'BS Information Technology',
     yearLevel: 1,
-    email: 'jin@example.com',
+    email: 'kim.seokjin@csucc.edu.ph',
   ),
   Student(
     name: 'Park Jimin',
     course: 'BS Computer Science',
     yearLevel: 3,
-    email: 'jimin@example.com',
+    email: 'park.jimin@csucc.edu.ph',
   ),
   Student(
     name: 'Jung Hoseok',
     course: 'BS Information Technology',
     yearLevel: 2,
-    email: 'jhope@example.com',
+    email: 'jung.hoseok@csucc.edu.ph',
   ),
   Student(
     name: 'Kim Taehyung',
     course: 'BS Information Systems',
     yearLevel: 4,
-    email: 'taehyung@example.com',
+    email: 'kim.taehyung@csucc.edu.ph',
   ),
 ];
 
